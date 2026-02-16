@@ -126,16 +126,20 @@ This project analyzes e-commerce sales data to:
 ## 📊 Dashboard Screenshots
 
 ### 🔹 Sales Performance Overview
-![Sales Overview](Powerbi/Sales Performance Overview DB.png)
+![Sales Overview](Powerbi/Sales%20Performance%20Overview%20DB.png)
 
 ### 🔹 Customer Segmentation
-![Customer Segmentation](Powerbi/Customer Segmentation DB.png)
+![Customer Segmentation](Powerbi/Customer%20Segmentation%20DB.png)
 
 ### 🔹 Product Performance Analysis
-![Product Performance](Powerbi/Product Performance Analysis DB.png)
+![Product Performance](Powerbi/Product%20Performance%20Analysis%20DB.png)
+
+### 🔹 Product Details Drill Through
+![Product Details](Powerbi/Product%20wise%20Details%20Dill%20throw%20.png)
 
 ### 🔹 Sales Forecast
-![Sales Forecast](Powerbi/Sales Forecast DB.png)
+![Sales Forecast](Powerbi/Sales%20Forecast%20DB.png)
+
 
 ---
 
@@ -150,4 +154,4 @@ Developed an end-to-end E-Commerce Analytics solution integrating Machine Learni
 **Karkuvel**
 Aspiring ML Engineer | Data Scientist
 
-```
+
